@@ -12,7 +12,7 @@
 
   <article class="{{ post_class }}" itemscope itemtype="http://schema.org/Article">
   {##################}
-  {### POST BLOCK ###}
+  {### POST BLOCK ###*******************}
   {##################}
   <div class="post-block">
     <link itemprop="mainEntityOfPage" href="{{ config.url }}{{ url_for(post.path) }}">
