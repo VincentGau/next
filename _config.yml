@@ -140,8 +140,8 @@ links_icon: link
 links_title: Links
 links_layout: block
 #links_layout: inline
-#links:
-  #Title: http://example.com/
+links:
+  旧版: https://kohaku.cc
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
