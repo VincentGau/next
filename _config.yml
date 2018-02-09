@@ -118,9 +118,10 @@ scheme: Pisces
 # Key is the link label showing to end users.
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
-#social:
+social:
   #GitHub: https://github.com/yourname || github
-  #E-Mail: mailto:yourname@gmail.com || envelope
+  E-Mail: mailto:g@kohaku.cc || envelope
+  旧版: https://kohaku.cc || link
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
   #FB Page: https://www.facebook.com/yourname || facebook
@@ -140,8 +141,8 @@ links_icon: link
 links_title: Links
 links_layout: block
 #links_layout: inline
-links:
-  旧版: https://kohaku.cc
+#links:
+#  旧版: https://kohaku.cc  # 移到socials 里
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
